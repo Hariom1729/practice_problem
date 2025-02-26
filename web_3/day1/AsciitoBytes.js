@@ -10,4 +10,4 @@ for (let i=0;i<ascii.length;i++){
 result.push(ascii.charCodeAt(i));
 }
 console.log(result);
-
+ 
